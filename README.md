@@ -31,9 +31,9 @@
   💌 Voce pode entrar em contato comigo por aqui 🙃: ⤵️
 </p>
 
-<p align="center">
+<p align="left">
   
-  <a href="https://www.instagram.com/_alexandremmelo/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/alexandre-melo-3ab681181/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_alexandremmelo/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
