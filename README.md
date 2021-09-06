@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  😏 Interesse: <strong>Seguranca da informação, Pentest, Energeticos ⚡️.</strong>
+  😏 Interesse: <strong>Seguranca da informação⚔️, Pentest🥷🏻, Energeticos⚡️, Hacking🧑🏻‍💻 e Pescaria🎣.</strong>
 </p>
 
 <p align="left">
