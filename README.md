@@ -6,7 +6,7 @@
  <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMelo&theme=outrun&show_icons=true&count_private=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 <a href="https://github.com/AlexandreMMelo">
-  <img height="220em" width="435em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMelo&theme=outrun&hide_langs_below=1&line_height=27" />
+  <img height="200em" width="435em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMelo&theme=outrun&hide_langs_below=1&line_height=27" />
 </a>
 </div>
 <br>
