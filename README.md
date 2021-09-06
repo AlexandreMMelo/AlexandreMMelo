@@ -3,10 +3,10 @@
 
 
 <a href="https://github.com/AlexandreMMelo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMelo&theme=outrun&show_icons=true&count_private=true&line_height=27" alt="**SEU NOME** github stats"/>
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMelo&theme=outrun&show_icons=true&count_private=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 <a href="https://github.com/AlexandreMMelo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMelo&theme=outrun&hide_langs_below=1" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMelo&theme=outrun&hide_langs_below=1&line_height=27" />
 </a>
 <br>
 <br>
