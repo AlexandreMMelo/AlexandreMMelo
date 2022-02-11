@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    &nbsp&nbsp&nbsp&nbspOlá, meu nome é Alexandre, a.k.a Z_h, e curso <strong>Ciência da Computação</strong> na Universidade Federal Da Paraíba.<br><br>
+    &nbsp&nbsp&nbsp&nbspOlá, meu nome é Alexandre, a.k.a Z_h,curso <strong>Ciência da Computação</strong> na Universidade Federal Da Paraíba e trabalho com <strong>Appsec</strong>.<br><br>
     &nbsp&nbsp&nbsp&nbspAtualmente estou dedicando meus estudos à segurança da informação, que é a area que tenho interessem em atuação profissional.
 </p>
 
