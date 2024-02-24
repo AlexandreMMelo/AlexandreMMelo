@@ -17,15 +17,15 @@
 
 <p align="left"> 
     &nbsp&nbsp&nbsp&nbspOlá, meu nome é Alexandre, a.k.a Z_h,curso <strong>Ciência da Computação</strong> na Universidade Federal Da Paraíba e trabalho com <strong>Appsec</strong>.<br><br>
-    &nbsp&nbsp&nbsp&nbspAtualmente estou dedicando meus estudos à segurança da informação, que é a area que tenho interessem em atuação profissional.
+    &nbsp&nbsp&nbsp&nbspAtualmente estou dedicando meus estudos à segurança da informação e Blockchain.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Java, Python, Bash, PHP, SQL.</strong>
+  🦄 Linguagens: <strong> Java, Python, Bash, Solidity.</strong>
 </p>
 
 <p align="left">
-  😏 Interesse: <strong>Seguranca da informação⚔️, Pentest🥷🏻, Energeticos⚡️, Hacking🧑🏻‍💻 e Pescaria🎣.</strong>
+  😏 Interesse: <strong>Seguranca da informação⚔️, Pentest🥷🏻, Energeticos⚡️, Blockchain🔗, Hacking🧑🏻‍💻 e Pescaria🎣.</strong>
 </p>
 
 <p align="left">
