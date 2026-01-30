@@ -3,7 +3,7 @@
 
 <div>
 <a href="https://github.com/AlexandreMMelo">
- <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMelo&theme=outrun&show_icons=true&count_private=true&line_height=27" alt="**SEU NOME** github stats"/>
+ <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMelo&theme=outrun&show_icons=true&count_private=true&line_height=27" alt="AlexandreMMelo github stats"/>
 </a>
 <a href="https://github.com/AlexandreMMelo">
   <img height="200em" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMelo&theme=outrun&hide_langs_below=1&line_height=27" />
