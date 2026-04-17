@@ -1,5 +1,4 @@
-# E ai, galera 👋
-
+# Alexandre Melo | Application Security Engineer 👋
 
 <div>
 <a href="https://github.com/AlexandreMMelo">
@@ -13,31 +12,35 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration">
 
 <p align="left"> 
-    &nbsp&nbsp&nbsp&nbspOlá, meu nome é Alexandre, a.k.a Z_h,curso <strong>Ciência da Computação</strong> na Universidade Federal Da Paraíba e trabalho com <strong>Appsec</strong>.<br><br>
-    &nbsp&nbsp&nbsp&nbspAtualmente estou dedicando meus estudos à segurança da informação e Blockchain.
+    &nbsp&nbsp&nbsp&nbspHey, I'm Alexandre, a.k.a. Z_h. I work as an <strong>Application Security Engineer</strong>, helping engineering teams build software that is secure, resilient, and practical to ship.<br><br>
+    &nbsp&nbsp&nbsp&nbspMy work is centered around <strong>Application Security, DevSecOps, Secure SDLC, security automation, secure pipelines, threat modeling</strong>, and <strong>vulnerability management</strong>, always with a pragmatic and risk-based approach.<br><br>
+    &nbsp&nbsp&nbsp&nbspLately, I’ve also been working a lot with <strong>JavaScript</strong> and <strong>TypeScript</strong>, especially in contexts related to application security, development workflows, and automation. I also enjoy exploring <strong>Blockchain</strong> and <strong>Smart Contract Security</strong>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Java, Python, Bash, Solidity.</strong>
+  Languages: <strong>JavaScript, TypeScript, Java, Python, Bash, and Solidity.</strong>
 </p>
 
 <p align="left">
-  😏 Interesse: <strong>Seguranca da informação⚔️, Pentest🥷🏻, Energeticos⚡️, Blockchain🔗, Hacking🧑🏻‍💻 e Pescaria🎣.</strong>
+  Focus areas: <strong>Application Security, DevSecOps, Secure SDLC, CI/CD Security, Threat Modeling, Vulnerability Management, Security Automation, JavaScript/TypeScript Security, Blockchain, and Smart Contract Security.</strong>
 </p>
 
 <p align="left">
-  💌 Voce pode entrar em contato comigo por aqui 🙃: ⤵️
+  Outside of work: <strong>fishing, kitesurf vibes, and exploring technology from a security-first perspective.</strong>
 </p>
 
 <p align="left">
-  
-  <a href="https://www.linkedin.com/in/alexandre-melo-3ab681181/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  You can reach me here:
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alexandremmelo/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/_alexandremmelo/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
-</p>  
-
-
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
+  </a>
+</p>
